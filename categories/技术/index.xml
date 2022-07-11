@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技术 on Yuchen&#39;s Blog</title>
+    <link>https://xihuheyi007.github.io/categories/%E6%8A%80%E6%9C%AF/</link>
+    <description>Recent content in 技术 on Yuchen&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jul 2022 11:16:32 +0800</lastBuildDate><atom:link href="https://xihuheyi007.github.io/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown语法示例</title>
+      <link>https://xihuheyi007.github.io/posts/test/</link>
+      <pubDate>Mon, 11 Jul 2022 11:16:32 +0800</pubDate>
+      
+      <guid>https://xihuheyi007.github.io/posts/test/</guid>
+      <description>Markdown是一种轻量级标记语言，创始人为约翰·格鲁伯（John Gruber)。它允许人们使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）文档。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。由于Markdown的轻量化、易读易写特性，并且对于图片、图表、数学式都有支持，许多网站都广泛使用Markdown来撰写帮助文档或是用于论坛上发表信息，如Github、Reddit、简书等，甚至还能用来撰写电子书。（摘自百度百科）
+Markdown和传统的Microsoft Word相比，优点在于轻量化，操作较为简单，不需要如word一样进行复杂的排版操作，没有太多的格式选择，可以使人专注于写作本身。因此我的文章主要用Markdown来进行写作。
+以下简要归纳一些常见的Markdown语法：
+标题 一级标题：#
+二级标题：##
+三级标题：###
+以此类推
+代码 出现在正文中的代码：``中间填入代码
+示例： 正文中的代码hello world !
+代码块：两个```字符串中间写入代码，支持代码高亮。
+示例
+languages=[&amp;#39;c&amp;#39;, &amp;#39;python&amp;#39;, &amp;#39;javascript&amp;#39;,&amp;#39;golang&amp;#39;] print(&amp;#39;I like &amp;#39;+lauguages[0].title()+&amp;#39; best!&amp;#39;) 列表 有序列表：使用数字并加上 . 号来表示，且有序列表和无序列表可以嵌套。
+示例：
+詹姆斯 湖人 骑士 热火 保罗 太阳 雷霆 火箭 快船 韦德 退役 安东尼 湖人 雷霆 尼克斯 无序列表:无序列表使用星号(*)、加号(+)或是减号(-)作为列表标记，这些标记后面要添加一个空格，然后再填写内容。
+示例：
+香蕉船兄弟 雷霆三少 绿军三巨头 段落格式 加粗：**填入文字**
+倾斜：*填入文字*
+加粗和倾斜：***填入文字***
+示例：加粗 倾斜 加粗和倾斜
+分隔线：一行中用三个以上的星号、减号、底线来建立一个分隔线，行内不能有其他东西，也可以在星号或是减号中间插入空格。
+示例：
+测试
+测试
+删除线：~填入文字~
+示例：此内容已被删除
+下划线：&amp;lt;u&amp;gt;带下划线文本&amp;lt;/u&amp;gt;
+示例：带下划线文本
+链接 [链接名称](链接地址)或者&amp;lt;链接地址&amp;gt;
+示例：这是一个链接菜鸟教程
+直接使用链接地址：&amp;lt;https://www.runoob.com&amp;gt;
+图片 !</description>
+    </item>
+    
+  </channel>
+</rss>
