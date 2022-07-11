@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/cn/categories/</loc>
+    <loc>https://xihuheyi007.github.io/categories/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://xihuheyi007.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/categories/"
+                href="https://xihuheyi007.github.io/categories/"
                 />
   </url><url>
-    <loc>https://example.com/cn/</loc>
+    <loc>https://xihuheyi007.github.io/posts/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://xihuheyi007.github.io/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/"
+                href="https://xihuheyi007.github.io/posts/"
                 />
   </url><url>
-    <loc>https://example.com/cn/posts/</loc>
+    <loc>https://xihuheyi007.github.io/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/"
+                href="https://xihuheyi007.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/posts/"
+                href="https://xihuheyi007.github.io/"
                 />
   </url><url>
-    <loc>https://example.com/cn/posts/bitcoin/</loc>
+    <loc>https://xihuheyi007.github.io/posts/bitcoin/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/cn/categories/%E7%BB%8F%E6%B5%8E%E5%AD%A6/</loc>
+    <loc>https://xihuheyi007.github.io/categories/%E7%BB%8F%E6%B5%8E%E5%AD%A6/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/cn/categories/%E8%AF%97%E6%AD%8C/</loc>
+    <loc>https://xihuheyi007.github.io/categories/%E8%AF%97%E6%AD%8C/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/cn/posts/cn/</loc>
+    <loc>https://xihuheyi007.github.io/posts/cn/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/cn/tags/</loc>
+    <loc>https://xihuheyi007.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://xihuheyi007.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/tags/"
+                href="https://xihuheyi007.github.io/tags/"
                 />
   </url>
 </urlset>
