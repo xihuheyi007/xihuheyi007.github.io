@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>静水流深</title>
+        <link>http://example.org/</link>
+        <description>分享生活，留住感动</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>007@byuchen.top (Yuchen)</managingEditor>
+            <webMaster>007@byuchen.top (Yuchen)</webMaster><lastBuildDate>Sun, 26 Mar 2023 11:22:09 &#43;0800</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>http://example.org/first_post/</link>
+    <pubDate>Sun, 26 Mar 2023 11:22:09 &#43;0800</pubDate>
+    <author>Yuchen</author>
+    <guid>http://example.org/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
