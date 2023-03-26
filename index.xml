@@ -4,15 +4,31 @@
         <link>https://xihuheyi007.github.io/</link>
         <description>分享生活，留住感动</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>007@byuchen.top (Yuchen)</managingEditor>
-            <webMaster>007@byuchen.top (Yuchen)</webMaster><lastBuildDate>Sun, 26 Mar 2023 11:22:09 &#43;0800</lastBuildDate>
+            <webMaster>007@byuchen.top (Yuchen)</webMaster><lastBuildDate>Sun, 26 Mar 2023 20:07:34 &#43;0800</lastBuildDate>
             <atom:link href="https://xihuheyi007.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>First_post</title>
+    <title>简述地方财政改革之难——分税制改革视角</title>
+    <link>https://xihuheyi007.github.io/text_1/</link>
+    <pubDate>Sun, 26 Mar 2023 20:07:34 &#43;0800</pubDate>
+    <author>Yuchen</author>
+    <guid>https://xihuheyi007.github.io/text_1/</guid>
+    <description><![CDATA[1994年的分税制改革把税收分为三类：中央税（如关税）、地方税（如营业税）、共享税（如增值税）。同时分设国税、地税两套机构，与地方财政部门脱]]></description>
+</item>
+<item>
+    <title>我的2022年</title>
+    <link>https://xihuheyi007.github.io/yearly-summary/</link>
+    <pubDate>Sun, 26 Mar 2023 20:05:29 &#43;0800</pubDate>
+    <author>Yuchen</author>
+    <guid>https://xihuheyi007.github.io/yearly-summary/</guid>
+    <description><![CDATA[回首2022，一年的时光显得十分模糊，可能是一整年的备考让每个日子都很平凡单调，可能是想做没做成的事让自己感到遗憾。无论怎样，这一年已经过去]]></description>
+</item>
+<item>
+    <title>《美丽心灵》观后感</title>
     <link>https://xihuheyi007.github.io/first_post/</link>
     <pubDate>Sun, 26 Mar 2023 11:22:09 &#43;0800</pubDate>
     <author>Yuchen</author>
     <guid>https://xihuheyi007.github.io/first_post/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[&ldquo;普林斯顿的幽灵，可是谁要是嘲笑他的话，谁自己就会成为笑话。&rdquo; John Nash试图创造一种全新的理论，用自己深爱的数字和逻]]></description>
 </item>
 </channel>
 </rss>
